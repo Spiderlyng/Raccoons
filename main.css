@@ -1,0 +1,126 @@
+
+header{
+    font-size: xx-large;
+    background-color: silver;
+}
+
+footer{
+    background-color: antiquewhite;
+}
+
+table{
+    width: 80%;
+}
+
+table,td {
+    border-collapse: collapse;
+    border: 2px solid;
+  }
+
+  #Red{
+    background-color: red;
+  }
+
+  #Green{
+    background-color: green;
+  }
+
+  #Blue{
+    background-color: blue;
+  }
+
+  #Yellow{
+    background-color: yellow;
+  }
+
+  #DeepPink{
+    background-color: deeppink;
+  }
+
+  #SeaGreen{
+    background-color: seagreen;
+  }
+
+  #Cyan{
+    background-color: cyan;
+  }
+  
+  #Gold{
+    background-color: gold;
+  }
+
+  #Tomato{
+    background-color: tomato;
+  }
+
+  #Turqoise{
+    background-color: turquoise;
+  }
+
+  #SteelBlue{
+    background-color: steelblue;
+  }
+
+  #GreenYellow{
+    background-color: greenyellow;
+  }
+
+  #Purple{
+    background-color: purple;
+  }
+
+  #Lime{
+    background-color: lime;
+  }
+
+  #Indigo{
+    background-color: indigo;
+  }
+
+  #OrangeRed{
+    background-color: orangered;
+  }
+
+ #LightCoral{
+    background-color: lightcoral;
+ }
+
+ #RoyalBlue{
+    background-color: royalblue;
+ }
+
+ #Pink{
+    background-color: pink;
+ }
+
+ #LightCyan{
+    background-color: lightcyan;
+ }
+
+ #Orange{
+    background-color: orange;
+ }
+
+ #LightSteelBlue{
+    background-color: lightsteelblue;
+ }
+
+ #SlateBlue{
+    background-color: slateblue;
+ }
+
+ #Plum{
+    background-color: plum;
+ }
+
+ a:link{
+    color: blue;
+ }
+
+ a:visited{
+    color: darkgreen;
+ }
+
+ a:hover{
+    color: hotpink;
+ }
